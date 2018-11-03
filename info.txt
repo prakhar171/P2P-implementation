@@ -1,0 +1,4 @@
+PythonVersion: 3.6 
+TextEncoding: ASCII
+FLAG: start: 10000001 end: 11111111
+ESC: 01111110
